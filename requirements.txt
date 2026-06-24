@@ -1,0 +1,11 @@
+streamlit
+reportlab
+qrcode
+Pillow
+nicegui
+supabase
+python-dotenv
+pandas
+numpy
+plotly
+uvicorn
